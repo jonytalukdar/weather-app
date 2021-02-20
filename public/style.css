@@ -1,0 +1,11 @@
+body {
+  background: cyan !important;
+}
+
+#master-history {
+  display: none;
+}
+
+p {
+  font-size: 15px !important;
+}
